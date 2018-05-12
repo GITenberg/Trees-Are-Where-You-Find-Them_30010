@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '34306'
     url: http://www.gutenberg.org/2009/agents/34306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30010#Trees-Are-Where-You-Find-Them
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-17'
 gutenberg_type: Text
